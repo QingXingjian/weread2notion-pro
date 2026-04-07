@@ -16,6 +16,7 @@ setup(
             "book = weread2notionpro.book:main",
             "weread = weread2notionpro.weread:main",
             "read_time = weread2notionpro.read_time:main",
+            "ai_summary = weread2notionpro.ai_summary:main",
         ],
     },
     author="malinkang",
